@@ -5,10 +5,10 @@
 
 *Building clean, responsive web applications with React & Next.js*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2ao1.space-1A56DB?style=for-the-badge&logo=globe&logoColor=white)](https://2ao1.space)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ao1.site-1A56DB?style=for-the-badge&logo=globe&logoColor=white)](https://2ao1.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-omran-2ao1)
 [![Email](https://img.shields.io/badge/Email-omran.a.jr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omran.a.jr@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.2ao1.space/Ahmed_Omran_Frontend_Developer.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.2ao1.site/Ahmed_Omran_Frontend_Developer.pdf)
 
 </div>
 
